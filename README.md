@@ -37,4 +37,4 @@ hashcat -a 3 -m 1000 secretsdump.txt C:\hashcat\masks\mymask.txt
 
 ### password reuse
 
-hashcat -m 1000 secretsdump.txt C:\hashcat\wordlists\mywordlist.txt -r C:\hashcat\rules\all.rule --debug-mode=1 --debug-file=matched.rule
+hashcat -m 1000 secretsdump.txt C:\hashcat\wordlists\crackedPasswords.txt -r C:\hashcat\rules\all.rule --debug-mode=1 --debug-file=matched.rule
