@@ -3,7 +3,9 @@
 
 ## corp_8-14.sorted 
 
-sorted mask by efficiency (keyspace/cracked)
+sorted mask by efficiency 
+
+efficiency index = keyspace / number cracked
 
 ## Active Directory NTLM Cracking Cheatsheet
 
